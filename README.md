@@ -11,12 +11,13 @@
 ![구성도](https://user-images.githubusercontent.com/97776194/192235126-3c641b7e-1f25-45ec-85b6-1bd87f79c6eb.png)
 
 <br> **✔ 중간보고 1 - 2021년 10월 26일** <br>
-![중간 보고 1](https://user-images.githubusercontent.com/97776194/192816955-26f9d4a8-047e-4919-aff1-26dfe84fd689.JPG)
+![중간 보고 1](https://user-images.githubusercontent.com/97776194/193066463-d2046838-231c-4d4f-86ac-073205df12f7.JPG)
 
 <br> **✔ 중간보고 2 - 2021년 11월 09일** <br>
-![중간 보고 2](https://user-images.githubusercontent.com/97776194/192816970-725bd1b0-33ec-4757-a569-01bfdcc60a94.JPG)
+![중간 보고 2](https://user-images.githubusercontent.com/97776194/193066478-74c61f8b-ebe7-4703-b3b0-bbb75d3768ae.JPG)
 
 <br> **✔ 중간보고 3 - 2021년 11월 16일** <br>
+![중간 보고 3](https://user-images.githubusercontent.com/97776194/193066482-b94c110e-ce1f-48fd-817e-bd68ff4a775d.JPG)
 
 <br> **✔ 최종보고 - 2021년 11월 30일** <br>
-
+![최종 보고](https://user-images.githubusercontent.com/97776194/193066487-8cfe6eeb-eb14-4efe-a9cc-33614eea3ded.JPG)
