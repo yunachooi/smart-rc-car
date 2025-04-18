@@ -1,4 +1,4 @@
-# AutonomousVehicle
+# smart-rc-car
 > 프로젝트 기간 : 2021년 10월 19일 ~ 2021년 11월 30일 <br>
 프로젝트 참여 : 주영진, 최유나, 한서현 <br>
 
