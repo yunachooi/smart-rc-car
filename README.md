@@ -21,3 +21,7 @@
 
 <br> **✔ 최종보고 - 2021년 11월 30일** <br>
 ![최종 보고](https://user-images.githubusercontent.com/97776194/193066487-8cfe6eeb-eb14-4efe-a9cc-33614eea3ded.JPG)
+
+<br> **시연영상**<br>
+<img src="https://github.com/user-attachments/assets/76fe61c2-a0c1-4a90-9ba5-6255cb6916bf" width="550px">
+<img src="https://github.com/user-attachments/assets/40b48359-95a8-4664-ab55-78643666750f" width="550px">
